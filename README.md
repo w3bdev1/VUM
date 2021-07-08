@@ -3,3 +3,4 @@
 
 ### Chapters
 - [Chapter 3](./3.md)
+- [Chapter 4](./4.md)
